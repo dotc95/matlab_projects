@@ -1,0 +1,6 @@
+Nameoftheelement   Mwt
+Ti                 47.867
+Ni                 58.6934
+Co                 58.933194
+Sn                 118.710
+Sb                 121.760

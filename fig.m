@@ -1,0 +1,16 @@
+T=linspace(1000,2000,1);
+A_2=-126700;
+B_2=3.82;
+Delta_G1=A+B*(298.15);
+Y1=-((Delta_G1)/(2*8.314*T));
+X1=1000/T;
+plot(X1,Y1,'b');
+hold on;
+axis('square');
+A_3=-78900;
+B_3=0.94;
+Delta_G2=A+B*(298.15);
+Y2=-((Delta_G2)/(2*8.314*T));
+X2=1000/T;
+plot(X2,Y2,'y');
+axis('square');
